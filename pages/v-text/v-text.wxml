@@ -1,0 +1,2 @@
+<!--pages/v-text/v-text.wxml-->
+<v-text title="{{title2}}" placeholder="{{placeholder1}}" bind:textValue="receiveTextValue" value="{{plantingAreaName}}"></v-text>

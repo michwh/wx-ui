@@ -1,0 +1,6 @@
+{
+  "component": true,
+  "usingComponents": {
+    "v-text": "/components/v-text/v-text"
+  }
+}

@@ -1,0 +1,2 @@
+<!--pages/v-picker-selector/v-picker-selector.wxml-->
+<v-picker-selector options="{{operateOptions}}" title="{{operateOptionsTitle}}" bind:optionsValue="receiveOperateOptionsValue"></v-picker-selector>

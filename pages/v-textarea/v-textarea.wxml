@@ -1,0 +1,2 @@
+<!--pages/v-textarea/v-textarea.wxml-->
+<v-textarea placeholder="{{placeholder2}}" title="{{title3}}" value="{{plantingAreaIntroduction}}" bind:textareaValue="receiveTextareaValue"></v-textarea>

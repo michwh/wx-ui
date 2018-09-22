@@ -1,0 +1,32 @@
+<!--index.wxml-->
+<view class="container">
+  <view class='v-list'>
+    <navigator url="/pages/v-list/v-list">
+      <text>v-list组件 ></text>
+    </navigator>
+  </view>
+
+  <view class='v-modal'>
+    <navigator url="/pages/v-modal/v-modal">
+      <text>v-modal组件 ></text>
+    </navigator>
+  </view>
+
+  <view class='v-picker-selector'>
+    <navigator url="/pages/v-picker-selector/v-picker-selector">
+      <text>v-picker-selector组件 ></text>
+    </navigator>
+  </view>
+
+  <view class='v-text'>
+    <navigator url="/pages/v-text/v-text">
+      <text>v-text组件 ></text>
+    </navigator>
+  </view>
+
+  <view class='v-textarea'>
+    <navigator url="/pages/v-textarea/v-textarea">
+      <text>v-textarea组件 ></text>
+    </navigator>
+  </view>
+</view>
